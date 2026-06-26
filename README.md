@@ -5,7 +5,7 @@ Licensed under the **GNU General Public License v3 (GPL-3.0)**.
 
 ---
 
-## Overview
+Overview
 
 **F4us** is a lightweight, bare-metal Endpoint Detection & Response (EDR) and automated containerized sandboxing engine written entirely in pure C. Designed with a strict **0% JavaScript** architectural mandate, it consumes near-zero CPU cycles during idle states and executes defense protocols within microseconds.
 
@@ -13,7 +13,7 @@ By utilizing native Linux kernel APIs (`inotify` and isolated namespaces), F4us 
 
 ---
 
-## Architecture & Modules
+ Architecture & Modules
 
 The ecosystem is engineered using a decoupled, asynchronous modular framework.
 
