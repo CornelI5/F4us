@@ -1,5 +1,4 @@
- F4us Security Ecosystem (v2.0)
-> **"F for Us"** — A high-performance, event-driven, zero-JS Active EDR and Sandbox Ecosystem built for the community.
+ F4us Security Ecosystem
 
 Licensed under the **GNU General Public License v3 (GPL-3.0)**. 
 
